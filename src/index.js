@@ -13,9 +13,9 @@ import Contact from "./contact";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path="/" element={<NavBar />}>
+      <Route exact path="/" element={<NavBar />}>
         <Route index element={<App />}></Route>
         <Route path="/skills" element={<MySkills />} />
         <Route path="/work" element={<MyWork />} />
