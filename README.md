@@ -1,6 +1,6 @@
-## [Demo](https://avinashv47.github.io/portfolio/)
-
 # Getting Started with Create React App
+
+Take a look at [Demo](https://avinashv47.github.io/portfolio/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
