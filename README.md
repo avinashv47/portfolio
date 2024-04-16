@@ -1,4 +1,4 @@
-##Take a quik look at [Demo](https://avinashv47.github.io/portfolio/)
+## [Demo](https://avinashv47.github.io/portfolio/)
 
 # Getting Started with Create React App
 
